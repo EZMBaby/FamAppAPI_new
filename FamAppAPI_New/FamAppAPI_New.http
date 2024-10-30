@@ -1,0 +1,6 @@
+@FamAppAPI_New_HostAddress = http://localhost:5198
+
+GET {{FamAppAPI_New_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
